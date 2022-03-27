@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "compile": "npx hardhat compile",
+    "deploy": "npx hardhat run scripts/sample-script.js --network matic"
+  },
+  "devDependencies": {
+    "hardhat": "^2.8.4"
+  }
+}
